@@ -1,0 +1,50 @@
+get idpp element type,get idpp element type,10
+toggle,toggle,10
+engine can resolve,is valid uri,0.6666666667
+wait for idle,wait for idle,10
+to string,to string,10
+is assignment visible,is assignment visible,10
+finalize,reset handlers,3.666666667
+create raw validator,get schema fragment,0.3333333333
+to token,deserialize,4.666666667
+compare to,compare to,10
+handle button 1 request,update,1.333333333
+jaccard,get overlap score,7
+select date,action performed,0.3333333333
+extract res,check public,0.3333333333
+are on same curve,eq,5
+set sink,received,2.333333333
+get deferred evaluator,shutdown,1
+activate,write request,3
+curr day,action performed,1.333333333
+can thread decoding,is active,2
+serialize ur is,serialize,8
+end drag,smooth scroll to,4.333333333
+update indexed fields,update input document,6.666666667
+primary interface class,descriptor type,3
+pick,sample,7
+add from file,to config,2
+get key signatures,key sigs iterator,3.333333333
+report web rtc audio track init error,report error,7.666666667
+get sql select for today onwards,get date,6
+init state,set game state,7
+get add resource type column sql,alter table add resource type id,7.666666667
+get primary interface,get type,7
+get org user password validation class,get user id validation class,8.666666667
+get md 5,md 5,9
+is valid usage of dart model,is valid dart model class,8.333333333
+fetch next,get next record,8.666666667
+get v cores required,get total v cores,8.333333333
+get primary interface,get type,5.666666667
+wire time point executor,create time point executor,6.333333333
+get number of roles,get num roles,10
+jj 3 3 8,jj 3 r 6 5,2.666666667
+create palette,build palette,9
+is shown,is visible,7.333333333
+delete part,remove part,9.333333333
+is image,is photo,9.333333333
+get,set,1
+darken color,lighten color,1
+remove referral,delete referral,9.333333333
+jj 3 8 7,jj 3 r 1 0 0,2
+remove user,delete user,9.333333333

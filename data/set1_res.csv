@@ -1,0 +1,50 @@
+get long null,as long,4
+to asn 1 primitive,to asn 1 primitive,9.666666667
+call statement,bare statement,1.666666667
+get primary interface,get type,2
+with key transformer,with key trans,7
+is matching method,has same return type,1.666666667
+get local date from utc,get gmt offset,1
+update state information,uninstall,0
+set hashed subpackets,set hashed,2.666666667
+save binary,save weights,3
+create,ensure directory exists,2.333333333
+do new property,process,1
+eat text 1 2,handle single logout service url,0
+run,get number of triangles,0
+pre auto reconnect,check closed,0
+eat text 1,parse code,0
+authentication event,with realm,0.3333333333
+max envelopes,trap,0
+get field name commercial use,to string,0
+all result column,get prefix,0
+check tool,validate site,1.666666667
+init input frame,initialize input parameters,4.666666667
+get site config maximum searchable d bs,get searchable databases,4.333333333
+add extended matching items text and answers,populate item,2
+concatenate,concat,9.666666667
+split in two by modulo,split,5.333333333
+check variable,is excluded,0.6666666667
+register,add handler,7
+wnsim pos,get score,0
+get search separators,tokenize,1.333333333
+build,build root,4.333333333
+get depth,get path depth,4.333333333
+to asn 1 primitive,to asn 1 primitive primitive primitive object,6.333333333
+process template download,download template,7.333333333
+is link connected,is connected,7.333333333
+init data,init image res url,5
+get meta internal,get meta,6.666666667
+is user has grader permissions,has permissions,5.333333333
+get membership roles,get fast roles,3.333333333
+get check info,get device info,3
+get config,get configuration,9.666666667
+make resources,get resources,6.333333333
+jj 3 r 1 6 4,jj 3 r 2 0 5,0
+uri decode,url decode,9
+get configuration,get config,9.666666667
+sync site,synch site,9.333333333
+write files,write file,8.666666667
+rotate right,rotate left,1.333333333
+jj 3 2 7,jj 3 r 6 5,0
+is blank,is empty,9.666666667

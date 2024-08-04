@@ -1,0 +1,10 @@
+pandas
+scipy
+rouge-score
+wrdscore
+scikit-learn
+numpy
+POT
+transformers
+torch
+gensim

@@ -1,0 +1,50 @@
+start screen capture,capture screen,6.333333333
+get readable date string,format date time,6.666666667
+create basic device,generate device settings,5.333333333
+process delete reply attach,process delete reply attach,10
+ensure updates,remove keys,1.666666667
+even,is odd,4.333333333
+handle,handle exception,7.333333333
+get preferred weather location,get location,6.333333333
+retreat counter,reduce counter,7.666666667
+action clear caches,clear caches,9.666666667
+rotate left,r,0.6666666667
+climb to,set guided altitude,3.333333333
+process metrics,to map,2
+func 1 7 5 3 2 7 a,update text field,0.6666666667
+multiply positive,get next point,1
+add,create bookmark,3
+one,set identity,2.333333333
+mgf,calculate hash,1
+sample for instance,distributions,4.333333333
+singleton,make set,0.6666666667
+add randomly,add card,2.333333333
+to open gl pose with screen rotation,get tango pose,2.666666667
+prefix with,add,3.666666667
+is version compatible,check version,7.333333333
+inc artifacts,increment,7.333333333
+check minimum prime bits,is prime,5
+get sort order,get threshold,3.666666667
+get readable date string,format date time,7
+check return url,get meeting url,4.666666667
+update job cron,schedule job,5.666666667
+unset security token,remove security token,9
+handle response,handle handshake,6.666666667
+encode children,encode begin,6.333333333
+jaxb get id,get id,7.666666667
+get user keying material,get user keying material,10
+is outside,is expired,8
+get class getters,get all getters,8
+search static groups,search group,7.333333333
+is broken,is empty,3.666666667
+get date time,parse date,7.333333333
+verify actions,validate actions,8.666666667
+jj 3 7 9,jj 3 r 1 0 0,4
+check url,check uri,7.333333333
+validate password,check password,8.666666667
+save relations,save relationships,6.666666667
+measure size,measure width,5.333333333
+darken color,lighten color,4.666666667
+validate key,check key,8.666666667
+generate pattern,build pattern,8.666666667
+encode block,decode block,4.666666667
