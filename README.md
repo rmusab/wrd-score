@@ -1,11 +1,11 @@
 # Word Rotator's Distance Score (WRDScore)
 © Mussabayev Ravil, 2024
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-B31B1B)](https://arxiv.org/abs/2405.19220)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.19220-B31B1B)](https://arxiv.org/abs/2405.19220)
 
 ## Overview
 
-This repository contains the implementation of the Word Rotator's Distance Score (WRDScore), a novel metric for multi-purpose evaluation of natural language generation (NLG) models. WRDScore leverages word embeddings from models like CodeBERT and Word2Vec to compute the distance between reference and predicted sequences. Additionally, it includes methods to compute BERTScore, a popular metric for evaluating text generation models.
+This repository contains the implementation of Word Rotator's Distance Score (WRDScore), a novel metric for multi-purpose evaluation of natural language generation (NLG) models. WRDScore leverages word embeddings, like Word2Vec and CodeBERT, to compute the distance between reference and predicted sequences. Additionally, it includes a method to compute BERTScore, a popular metric for evaluating text generation models, as well as scripts for training Word2Vec embeddings on code corpora.
 
 ## Requirements
 
@@ -96,7 +96,7 @@ directory_path = 'Data/java-med'
 trained_model = train_word2vec_model(directory_path, tokenizer, window_size=2)
 ```
 
-# Citing Our Work
+## Citing Our Work
 
 If you find our research useful in your work, please cite our work:
 
